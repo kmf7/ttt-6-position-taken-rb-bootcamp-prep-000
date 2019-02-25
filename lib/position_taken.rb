@@ -1,6 +1,6 @@
 def position_taken?(board,index)
   if (Array[index] == " ")
-    false 
+    return false 
   end
 
 end
